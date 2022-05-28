@@ -1,0 +1,21 @@
+.container-questions {
+    padding: 50px;
+    margin-top: 50px;
+    min-height: 400px;
+    background-color: #fff;
+    width: 100%;
+}
+
+.questions-faq {
+    color: #797979;
+}
+
+.questions-question {
+    padding-top: 30px;
+    color: #797979;
+}
+
+.questions-responce {
+    padding-top: 30px;
+    color: #797979;
+}

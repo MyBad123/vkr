@@ -1,0 +1,34 @@
+.container-about {
+    padding: 50px;
+    margin-top: 50px;
+    min-height: 400px;
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.about-left {
+    width: 47%;
+}
+
+.about-left-about {
+    color: #797979;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.about-left-text {
+    color: #797979;
+}
+
+.about-right {
+    width: 47%;
+}
+
+.about-right-photo {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
